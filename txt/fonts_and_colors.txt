@@ -1,0 +1,38 @@
+Title 
+GabrieleCollaltodotcom - HELVETICA NEUE Bold - Size: 40 - Letter Spacing/Kerning: -1,2;
+
+Menù 
+Movies, About, Info. - HELVETICA NEUE Bold - Size: 22 - Letter Spacing/Kerning: 0;
+
+Sezione Movies
+Lista Lavori - HELVETICA NEUE Bold - Size: 30 - Letter Spacing/Kerning: 0;
+
+Pagina Lavoro
+Titolo nel player es. REEL 2010 - HELVETICA NEUE Bold - Size: 23 - Letter Spacing/Kerning: 0;
+
+Titolo cliente, role - HELVETICA NEUE Bold - Size: 16 - Letter Spacing/Kerning: 0;
+
+Descrizione lavoro - HELVETICA NEUE Bold - Size: 18 - Letter Spacing/Kerning: 0;
+
+Back to list - HELVETICA NEUE Bold - Size: 20 - Letter Spacing/Kerning: 0;
+
+Pagina Info
+Creative - HELVETICA NEUE Bold - Size: 26 - Letter Spacing/Kerning: 0; 
+
+Gabriele Collalto - HELVETICA NEUE Bold - Size: 25 - Letter Spacing/Kerning: 0;
+
+Telefono e mail - HELVETICA NEUE Bold - Size: 23 - Letter Spacing/Kerning: 0;
+
+Partita Iva - HELVETICA NEUE Bold - Size: 23 - Letter Spacing/Kerning: 0;
+
+Backoffice - HELVETICA NEUE Bold - Size: 26 - Letter Spacing/Kerning: 0;
+
+Per qualsiasi info - HELVETICA NEUE Bold - Size: 23 - Letter Spacing/Kerning: 0;
+
+Telefono e mail - HELVETICA NEUE Bold - Size: 23 - Letter Spacing/Kerning: 0;
+
+Colorimetria
+
+Viola - #FF00FF - R: 255 - G: 0 - B: 255;
+Grigio - #999999 - R: 153 - G: 153 - B: 153;
+Bianco - #FFFFFF - R: 255 - G: 255 - B: 255;
