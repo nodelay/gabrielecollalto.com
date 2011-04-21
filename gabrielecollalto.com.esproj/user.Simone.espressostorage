@@ -9,7 +9,7 @@
 		<key>ContentSize</key>
 		<string>{1440, 797}</string>
 		<key>ProjectURL</key>
-		<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/gabrielecollalto.com.esproj/</string>
+		<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/gabrielecollalto.com.esproj/</string>
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
@@ -21,20 +21,33 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
-			<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/css</string>
-			<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/img</string>
-			<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/txt</string>
+			<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/css</string>
+			<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/img</string>
+			<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/scripts</string>
+			<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/txt</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
-	<true/>
+	<false/>
 	<key>com.macrabbit.Espresso.Workspace.Tabs</key>
 	<dict>
 		<key>Tabs</key>
 		<array>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/about.html</string>
+				<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/index.html</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/css/main.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/about.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
@@ -44,19 +57,17 @@
 				<key>Title</key>
 				<string>GabrieleCollaltodotcom</string>
 				<key>URL</key>
-				<string>file:///Volumes/simonekalb/Sites/gabrielecollalto.com/about.html</string>
+				<string>file:///Users/Simone/Sites/gabrielecollalto.com/about.html</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Volumes/simonekalb/Sites/gabrielecollalto.com/css/info.css</string>
+				<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/css/info.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/Simone/Sites/gabrielecollalto.com/README</string>
 				<key>StateType</key>
-				<string>DefaultTab</string>
+				<string>PreviewTab</string>
 			</dict>
 		</array>
 	</dict>

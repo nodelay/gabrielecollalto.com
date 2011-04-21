@@ -11,7 +11,6 @@
 	width: 690px;
 	margin-left: auto;
 	margin-right: auto;
-/*	font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;*/
 	font-family: "HelveticaNeue Light", Helvetica, Arial,
 	             sans-serif;
 }
@@ -26,7 +25,6 @@ body {
 
 #header {
 	color: #FFF;
-	font-variant: bold;
 	position: relative;
 	left: 8px;
 }
@@ -36,7 +34,7 @@ body {
 	font-size: 40px;
 	background-color: #000;
 	padding: 5px 5px 5px 5px;
-	max-width: 447px;
+	max-width: 453px;
 	position: relative;
 	right: 116px;
 }
@@ -46,11 +44,13 @@ body {
 	font-size: 22px;
 	background-color: #000;
 	padding: 5px 5px 5px 5px;
+/* padding di bottom 5px */
+	padding-bottom: 3px;
 	margin-bottom: 55px;
-	max-width: 210px;
-	padding: 5px;
+	max-width: 225px;
+	padding: 7px;
 	position: relative;
-	right: 235px;	
+	right: 228px;	
 }
 
 
